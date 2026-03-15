@@ -8,7 +8,7 @@
 
 ДАТАСЕТ
     Используется датасет "SOVA RuDevices" с Hugging Face:
-    https://huggingface.co/datasets/bond005/sova_rudevices
+    Ссылка: https://huggingface.co/datasets/bond005/sova_rudevices
     Автор: Егор Зубарев, Тимофей Москалец, команда SOVA.ai (загрузка на HF: @bond005).
     
 2. Набор данных с идображениями:
@@ -17,7 +17,7 @@
 
 ДАТАСЕТ
     Используется датасет "Glasses vs No Glasses" с Kaggle:
-    https://www.kaggle.com/datasets/sehriyarmemmedli/glasses-vs-noglasses-dataset
+    Ссылка: https://www.kaggle.com/datasets/sehriyarmemmedli/glasses-vs-noglasses-dataset
     Автор: Shahriyar Mammadli
     
 3. Набор табличных данных:
@@ -26,7 +26,7 @@
 
 ДАТАСЕТ
     Используется датасет "Banking Dataset" с GitHub:
-    https://github.com/ahsan084/Banking-Dataset
+    Ссылка: https://github.com/ahsan084/Banking-Dataset
     Автор: ahsan084, Rafo044 (GitHub)
     
 4. Набор данных с временными рядами:
@@ -35,7 +35,7 @@
 
 ДАТАСЕТ
     Используется датасет 
-    
+    Ссылка:
     Автор: 
 
 5. Набор текстовых данных:
@@ -43,7 +43,9 @@
     Индустриальный партнер: ОГБУ «ЧРЦНИТ»\ ПАО Сбербанк
 
 ДАТАСЕТ
-    Используется датасет 
-    
-    Автор: 
+    Название: PubMed 200k RCT
+    Авторы: Franck Dernoncourt, Ji Young Lee (исследование опубликовано на IJCNLP 2017)
+    Платформа: GitHub
+    Ссылка: https://github.com/Franck-Dernoncourt/pubmed-rct
+    Назначение: Датасет создан для последовательной классификации предложений (sequential sentence classification) в научных (медицинских) аннотациях.
     
