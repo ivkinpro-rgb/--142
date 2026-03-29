@@ -21,13 +21,13 @@
     Автор: Shahriyar Mammadli
     
 3. НАБОР ТАБЛИЧНЫХ ДАННЫХ:
-    Тема: Определение типа банковской транзакции
+    Тема: Прогнозирование стоимости медицинской страховки
     Индустриальный партнер: ОГБУ «ЧРЦНИТ»
 
 ДАТАСЕТ
-    Используется датасет "Banking Dataset" с GitHub:
-    Ссылка: https://github.com/ahsan084/Banking-Dataset
-    Автор: ahsan084, Rafo044 (GitHub)
+    Используется датасет "Medical Cost Personal Datasets" с Kagle:
+    Ссылка: https://www.kaggle.com/datasets/mirichoi0218/insurance
+    Автор: miriсhoi0218
     
 4. НАБОР ДАННЫХ С ВРЕМЕННЫМИ РЯДАМИ:
     Тема: Раннее обнаружение перегрева подшипника по тренду температуры
