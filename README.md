@@ -12,13 +12,13 @@
     Автор: Егор Зубарев, Тимофей Москалец, команда SOVA.ai (загрузка на HF: @bond005).
     
 2. НАБОР ДАННЫХ С ИЗОБРАЖЕНИЯМИ:
-    Тема: Обучение модели для детекции очков (обычные, солнцезащитные)
+    Тема: Обучение модели для детекции касок на голове человека
     Индустриальный партнер: ООО «ТРИДИВИ»
 
 ДАТАСЕТ
-    Используется датасет "Glasses vs No Glasses" с Kaggle:
-    Ссылка: https://www.kaggle.com/datasets/sehriyarmemmedli/glasses-vs-noglasses-dataset
-    Автор: Shahriyar Mammadli
+    Используется датасет ": Hard Hat Workers Dataset" с roboflow:
+    Ссылка: https://universe.roboflow.com/joseph-nelson/hard-hat-workers/dataset/5
+    Автор: Northeastern University – China
     
 3. НАБОР ТАБЛИЧНЫХ ДАННЫХ:
     Тема: Прогнозирование стоимости медицинской страховки
