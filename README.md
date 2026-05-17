@@ -41,13 +41,13 @@
     Авторы и источник: лаборатория электротехники Университета Кейс Вестерн Резерв (Case Western Reserve University), США.
 
 5. НАБОР ТЕКСТОВЫХ ДАННЫХ:
-    Тема: Распознавание научно-технических документов
-    Индустриальный партнер: ОГБУ «ЧРЦНИТ»\ ПАО Сбербанк
+    Тема: Классификация спама по тексту электронного письма
+    Индустриальный партнер: ОГБУ «ЧРЦНИТ»
 
 ДАТАСЕТ
-    Название: PubMed 200k RCT
-    Авторы: Franck Dernoncourt, Ji Young Lee (исследование опубликовано на IJCNLP 2017)
-    Платформа: GitHub
-    Ссылка: https://github.com/Franck-Dernoncourt/pubmed-rct
-    Назначение: Датасет создан для последовательной классификации предложений (sequential sentence classification) в научных (медицинских) аннотациях.
+    Название: Enron Spam Data
+    Авторы: V. Metsis, I. Androutsopoulos and G. Paliouras, Marcel Wiechmann
+    Платформа: kaggle
+    Ссылка: https://www.kaggle.com/datasets/marcelwiechmann/enron-spam-data?select=enron_spam_data.csv
+    Назначение: Датасет создан для классификации сообщений.
     
